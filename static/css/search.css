@@ -1,0 +1,11 @@
+#results {position:relative;width:174px;z-index:1009;left:70px;text-align:left;}
+#results ul {border:1px solid #bfbfbf;margin:0;padding:0;list-style:none;width:174px;float:left;background:fff;}
+#results ul li {font-size:12px;font-weight:none;color:#000;height:28px;width:174px;overflow:hidden;}
+#results ul li a {display:block;color:#666;background:#fff;font:normal 12px arial;text-decoration:none;padding:0 2px 0 2px;height:28px;line-height:28px;}
+#results ul li a strong {color:red;}
+#results ul li a.hover {background:#A8CAA9;color:#000;}
+#results ul li a.hover strong {color:#fff;}
+.layui-laypage .layui-laypage-curr .layui-laypage-em {background-color: #DC1B1B;}
+.layui-laypage a, .layui-laypage span {padding: 2px 12px;margin: 0 10px 5px 0;}
+.overflowname {height: 21px;overflow: hidden;}
+span.cRed {color: rgb(255, 0, 0);}

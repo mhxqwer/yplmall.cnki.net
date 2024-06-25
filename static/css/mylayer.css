@@ -1,0 +1,213 @@
+.layer1,.layer2 {
+    border-radius: 5px;
+    background: #fff;
+}
+
+.layer1 .layui-layer-title,.layer2 .layui-layer-title  {
+    position: relative;
+    height: 42px;
+    border: 0;
+    background: #22b17c;
+    color: #fff;
+    font: 16px/42px "Microsoft Yahei";
+}
+.layer1 .layui-layer-title, .layer2 .layui-layer-title{
+    padding-left: 10px;
+}
+.layer1 .layui-layer-content {
+    padding-bottom:26px;
+    padding-top: 26px;
+}
+
+.layer1 .layui-layer-content p {
+    text-align: center;
+    color: #000;
+    font: 16px/30px "微软雅黑";
+}
+.layui-layer{
+    position: relative;
+}
+.layer1 .layui-layer-setwin,.layer2 .layui-layer-setwin {
+    top: 11px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    right: 5px;
+}
+
+.layer1 .layui-layer-ico,.layer2 .layui-layer-ico {
+    width: 20px;
+    height: 20px;
+    background: url("../images/close.png");
+    background-size: 20px;
+}
+
+.layer1 .layui-layer-btn {
+    padding: 27px 0 !important;
+    background: #f2f2f2;
+}
+
+.layer1 .layui-layer-btn a {
+    display: inline-block;
+    width: 116px;
+    height: 36px;
+    padding: 0;
+    border: 0;
+    border-radius: 5px;
+    background: #22b17c;
+    border: 1px solid #22b17c;
+    color: #fff;
+    font: 14px/36px "微软雅黑";
+}
+.layer2 .layui-layer-content {
+    height:auto !important;
+    margin:40px auto 38px;
+    overflow: hidden;
+    text-align: center;
+    color: #000;
+    font: 16px/18px "微软雅黑";
+}
+
+.layer2 .layui-layer-btn {
+    padding: 0;
+}
+
+.layer2 .layui-layer-btn a {
+    display: inline-block;
+    height: 36px;
+    margin:0 7px;
+    padding: 0 20px;
+    border: 0;
+    border: 1px solid #f13e3a;
+    border-radius: 5px;
+    background: #f13e3a;
+    color: #fff;
+    font: 16px/36px "微软雅黑";
+}
+.layer2 .layui-layer-btn .layui-layer-btn1{
+    background: #ffffff;
+    color: #f13e3a;
+}
+.layui-layer-btn0{
+    width: 120px;
+    display: block;
+    text-align: center;
+    margin: 0  auto;
+    cursor: pointer;
+}
+.layer1 .layui-layer-btn{
+    text-align: center;
+    
+}
+.layer1{
+    width: 472px;
+}
+.layer1 .layui-layer-ico, .layer2 .layui-layer-ico{
+    display: block;
+}
+.success-addcard{
+    width: 250px;
+    padding: 20px;
+    background-color: rgba(210,210,210,0.4);
+    border-radius: 10px;
+}
+.success-addcard-imgblock{
+    text-align: center;
+}
+.success-addcard-imgblock img{
+    width: 50px;
+    height: 50px;
+}
+.success-addcard-text{
+    text-align: center;
+    margin-top: 10px;
+}
+.layui-layer-btn2{
+    margin-left:40px;
+}
+.check-boostore{
+    color:#00c0ff;
+    text-decoration: underline;
+}
+.layui-layer-btn3{
+    background: white !important;
+    color: #22b17c !important;
+    border: 1px solid #22b17c;
+}
+.buy-info-block{
+    padding-left: 130px;
+    font-size: 14px;
+    color: #333;
+    line-height: 22px;
+}
+.ml-alert-close{
+    position: absolute;
+    top: -40px;
+    right: 0;
+    cursor: pointer;
+}
+.ml-alert{
+    width: 650px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px 0;
+    position: relative;
+}
+.ml-alert-main{
+    padding: 0 90px 0 90px;
+    height: 440px;
+    overflow-y: auto;
+}
+
+.ml-title{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #666;
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.ml-body{
+    color: #333;
+}
+.ml-body-item1{
+    line-height: 28px;
+    margin: 0 30px 0 0px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 14px;
+}
+.ml-body-item2{
+    line-height: 28px;
+    margin: 0 30px 0 14px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 14px;
+}
+.ml-body-item3{
+    line-height: 28px;
+    margin: 0 30px 0 28px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 14px;
+}
+.ml-alert-btn{
+    width: 228px;
+    
+    text-align: center;
+    line-height: 40px;
+    border-radius: 3px;
+    color: rgb(2,131,15);
+    border: 1px solid rgb(2,131,15);
+    display: block;
+    font-size: 18px;
+    margin:0  auto;
+    margin-top: 20px;
+}
+.buy-info-text span{
+    font-weight: bold;
+}
