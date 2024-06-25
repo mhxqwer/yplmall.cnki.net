@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="/magazine/css/error/public.css"/>
+    <title>404</title>
+    <style>
+        html, body {
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<div class="error">
+    <div class="width1200pxAuto">
+        <div class="error-logo">
+            <a href="https://mall.cnki.net">
+                <img src="/magazine/images/common/logo5.png" alt="知网阅读">
+            </a>
+        </div>
+        <img class="error-img" src="/magazine/images/common/404.png" alt="404">
+        <block>
+            <p class="error-text">Not Found</p>
+        </block>
+        
+        
+        <div class="error-footer">
+            <p>出版：《中国学术期刊（光盘版）》电子杂志社有限公司</p>
+            <p>京ICP证040431号 网络出版服务许可证（总）网出证（京）字第271号 京公网安备11010802020460号</p>
+            <p>互联网宗教信息服务许可证：京（2022）0000115</p>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
